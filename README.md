@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to Team TermiNULL Coders' project for the Hackathon Dev Hack 5.0, presented as a part of PARSEC 4.0. Our project is a Student Portal developed using XAMPP. Follow the steps below to get started.
+Welcome to Team TermiNULL Coders' project for the Hackathon Dev Hack 5.0, presented as a part of PARSEC 4.0. Our project is a Student Portal developed using XAMPP. You can follow the steps below to get started.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Welcome to Team TermiNULL Coders' project for the Hackathon Dev Hack 5.0, presen
 
 5. **Database Configuration:**
    - Click on the Admin button for MySQL in the XAMPP Control Panel.
-   - In the phpMyAdmin webpage, click on "Import" and choose the `studentportal.sql` file from the cloned folder.
+   - In the phpMyAdmin webpage, click "Import" and choose the `studentportal.sql` file from the cloned folder.
    - The database setup is now complete.
 
 6. **Access the Website:**
@@ -31,9 +31,3 @@ Welcome to Team TermiNULL Coders' project for the Hackathon Dev Hack 5.0, presen
 
 7. **Explore Admin Side:**
    - To explore the admin side, type in the browser: `localhost/Team-TermiNULL-Coders-IIT-Dharwad-Student-Portal-Parsec-4.0-DevHack-5.0/admin.php`
-
-## Project Video
-
-Watch our project in action on our [YouTube video](https://www.youtube.com/watch?v=H6s4z4yRwwM).
-
-Feel free to explore, contribute, and provide feedback. Happy coding!
